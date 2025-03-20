@@ -11,7 +11,7 @@ Description: A trimmed down copy of the "kent-core source tree"
 	to use the '2bit' 'C' library in their own 'C'/'C++' code.
 URL: https://github.com/hpages/Rtwobitlib
 BugReports: https://github.com/hpages/Rtwobitlib/issues
-Version: 0.3.8
+Version: 0.3.9
 License: MIT + file LICENSE
 Encoding: UTF-8
 Authors@R: c(
@@ -24,9 +24,9 @@ Suggests: testthat, knitr, rmarkdown
 SystemRequirements: GNU make
 VignetteBuilder: knitr
 NeedsCompilation: yes
-Packaged: 2025-03-18 05:47:17 UTC; hpages
+Packaged: 2025-03-18 18:47:21 UTC; hpages
 Author: Hervé Pagès [aut, cre],
   UC Regents [cph] (all the '.c' and '.h' files in src/kent/)
 Maintainer: Hervé Pagès <hpages.on.github@gmail.com>
 Repository: CRAN
-Date/Publication: 2025-03-18 11:20:05 UTC
+Date/Publication: 2025-03-20 01:00:19 UTC

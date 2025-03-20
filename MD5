@@ -1,4 +1,4 @@
-c4633e3bbfe06e5135b4b7244acfeae2 *DESCRIPTION
+748a6680740dae506e1aad0ccf8b4d34 *DESCRIPTION
 c83bbf23f116a52d72defb2971cc62db *LICENSE
 888fd6ce2faa0ec736e8a90444cbcbaf *NAMESPACE
 85c180a0b7d5475c81d8ae0cd05e6476 *R/pkgconfig.R
@@ -8,7 +8,7 @@ e2a2c06fa14227a664d4820dce527ba5 *R/utils.R
 a2706989f6762d9e54067b8617347f7b *R/zzz.R
 0bbfc1b6f68e466c2e577d9a300f2883 *README.md
 d7f49d84f3ad1396cfcc4986a6f48ced *TODO
-29cf2b962c44282b096dc525cc1540fd *build/vignette.rds
+2dc76693621c7900d237d1d6ff62e795 *build/vignette.rds
 3e0588309abc1ad15e8ca878ea4c9c3c *inst/doc/Rtwobitlib.R
 170171902cfe0a26144b303bc26a424a *inst/doc/Rtwobitlib.Rmd
 32281fd1b502f8eff7d8fbf4b58e44f8 *inst/doc/Rtwobitlib.html
@@ -26,7 +26,7 @@ f6243bf0ff3ff400b374f7eb00260ef4 *src/Makevars.win
 413c0e12bfd0ee7e057f63793f5f527f *src/R_init_Rtwobitlib.c
 ecaff1b6b1292a535935507136aa054b *src/Rtwobitlib_utils.c
 b032e50c0dd13034f43d7c77020b5f81 *src/Rtwobitlib_utils.h
-669c9be2d31d024edc540eb0b8212a3c *src/kent/Makefile.Rtwobitlib
+b8e12ada434aaee019098b24bf3a9339 *src/kent/Makefile.Rtwobitlib
 e28e775b9c1ea174abd042b836249083 *src/kent/Makefile.Rtwobitlib.win
 3630821c25b612b4d4804a43a801587b *src/kent/NOTES.txt
 827dc0d9fc6eb3fca40accd640c0cdd2 *src/kent/bits.c
